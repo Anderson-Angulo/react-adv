@@ -13,7 +13,6 @@ export const ShoppingPage = () => {
       <hr />
       <div style={{
         display: "flex",
-        flexDirection:"column",
         flexWrap:"wrap"
       }}>
         <ProductCard product={product} >
